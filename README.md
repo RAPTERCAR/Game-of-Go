@@ -1,0 +1,1 @@
+A go implementation of conways game of life
